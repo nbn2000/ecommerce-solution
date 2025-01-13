@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-shadow-lg {
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.text-shadow-md {
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
